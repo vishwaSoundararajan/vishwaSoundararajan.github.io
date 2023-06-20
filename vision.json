@@ -10,8 +10,8 @@
        ],
        "appThemes": [
            {
-               "themeName": "theme1",
-               "subThemeName": "subTheme1",
+               "themeName": "ConstData.theme1",
+               "subThemeName": "ConstData.subTheme1",
                "themePreviewImage": "ImagePath"
            }
        ],
