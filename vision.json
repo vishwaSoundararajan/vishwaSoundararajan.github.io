@@ -1,0 +1,72 @@
+{
+    "student": {
+        "userData": [
+           {
+               "name": "Ram",
+               "accountNumber": "2212",
+               "amountInAccount": "5,470",
+               "userProfile":"userProfile1"
+           }
+       ],
+       "appThemes": [
+           {
+               "themeName": "theme1",
+               "subThemeName": "subTheme1",
+               "themePreviewImage": "ImagePath"
+           }
+       ],
+       "menus": [
+           "Deposit",
+           "Cards",
+           "Loan",
+           "Insurance",
+           "Account",
+           "E-Shop"
+       ],
+       "banner": "banner1",
+       "quickAccess": [
+           "Acc overview",
+           "Scan and pay",
+           "Recharge"
+       ],
+       "pages": [
+           {
+               "pageName": "Deposit",
+               "components": [
+                   "RD"
+               ]
+           },
+           {
+               "pageName": "Cards",
+               "components": [
+                   "Debitcard"
+               ]
+           },
+           {
+               "pageName": "Loan",
+               "components": [
+                   "Educationalloan"
+               ]
+           },
+           {
+               "pageName": "Insurance",
+               "components": [
+                   "Healthinsurance",
+                   "Travelinsurance"
+               ]
+           },
+           {
+               "pageName": "Account",
+               "components": [
+                   "Savingsaccount"
+               ]
+           },
+           {
+               "pageName": "E-Shop",
+               "components": [
+                   "Shop"
+               ]
+           }
+       ]
+   }
+}
