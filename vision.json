@@ -1,13 +1,21 @@
 {
     "student": {
-        "personName": "Professional",
+        "userData": [
+            {
+            "name": "Farook",
+            "accountNumber": "2215",
+            "amountInAccount": "23,470",
+            "userProfile": "userProfile1"
+            }
+            ],
         "appThemes": [
             {
-                "themeName": "Theme 2",
+                "themeName": "ConstData.theme1",
+                "subThemeName": "ConstData.subTheme1",
                 "themePreviewImage": "ImagePath"
             }
         ],
-        "banner": "",
+        "banner": "banner2",
         "quickAccess": [
             "Scan and pay",
             "Loan and card offers",
