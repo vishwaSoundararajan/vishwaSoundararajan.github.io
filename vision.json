@@ -1,72 +1,70 @@
 {
     "student": {
-        "userData": [
-           {
-               "name": "Ram",
-               "accountNumber": "2212",
-               "amountInAccount": "5,470",
-               "userProfile":"userProfile1"
-           }
-       ],
-       "appThemes": [
-           {
-               "themeName": "ConstData.theme1",
-               "subThemeName": "ConstData.subTheme1",
-               "themePreviewImage": "ImagePath"
-           }
-       ],
-       "menus": [
-           "Deposit",
-           "Cards",
-           "Loan",
-           "Insurance",
-           "Account",
-           "E-Shop"
-       ],
-       "banner": "banner1",
-       "quickAccess": [
-           "Acc overview",
-           "Scan and pay",
-           "Recharge"
-       ],
-       "pages": [
-           {
-               "pageName": "Deposit",
-               "components": [
-                   "RD"
-               ]
-           },
-           {
-               "pageName": "Cards",
-               "components": [
-                   "Debitcard"
-               ]
-           },
-           {
-               "pageName": "Loan",
-               "components": [
-                   "Educationalloan"
-               ]
-           },
-           {
-               "pageName": "Insurance",
-               "components": [
-                   "Healthinsurance",
-                   "Travelinsurance"
-               ]
-           },
-           {
-               "pageName": "Account",
-               "components": [
-                   "Savingsaccount"
-               ]
-           },
-           {
-               "pageName": "E-Shop",
-               "components": [
-                   "Shop"
-               ]
-           }
-       ]
-   }
+        "personName": "Professional",
+        "appThemes": [
+            {
+                "themeName": "Theme 2",
+                "themePreviewImage": "ImagePath"
+            }
+        ],
+        "banner": "",
+        "quickAccess": [
+            "Scan and pay",
+            "Loan and card offers",
+            "Demat"
+        ],
+        "menus": [
+            "Deposit",
+            "Cards",
+            "Loan",
+            "Insurance",
+            "Demat account",
+            "Account",
+            "E-Shop"
+        ],
+        "pages": [
+            {
+                "pageName": "Deposit",
+                "components": [
+                    "FD"
+                ]
+            },
+            {
+                "pageName": "Cards",
+                "components": [
+                    "Credit card"
+                ]
+            },
+            {
+                "pageName": "Loan",
+                "components": [
+                    "Personal loan"
+                ]
+            },
+            {
+                "pageName": "Insurance",
+                "components": [
+                    "Health insurance"
+                ]
+            },
+            {
+                "pageName": "Demat account",
+                "components": [
+                    "Mutual fund"
+                ]
+            },
+            {
+                "pageName": "Account",
+                "components": [
+                    "Current account"
+                ]
+            },
+            {
+                "pageName": "E-Shop",
+                "components": [
+                    "Shop"
+                ]
+            }
+        ]
+    }
 }
