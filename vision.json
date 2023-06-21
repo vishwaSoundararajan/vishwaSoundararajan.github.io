@@ -1,78 +1,71 @@
 {
     "student": {
         "userData": [
-            {
-            "name": "Farook",
-            "accountNumber": "2215",
-            "amountInAccount": "23,470",
-            "userProfile": "userProfile1"
-            }
-            ],
-        "appThemes": [
-            {
-                "themeName": "theme2",
-                "subThemeName": "subTheme2",
-                "themePreviewImage": "ImagePath"
-            }
-        ],
-        "banner": "banner2",
-        "quickAccess": [
-            "Scan and pay",
-            "Loan and card offers",
-            "Demat"
-        ],
-        "menus": [
-            "Deposit",
-            "Cards",
-            "Loan",
-            "Insurance",
-            "Demat account",
-            "Account",
-            "E-Shop"
-        ],
-        "pages": [
-            {
-                "pageName": "Deposit",
-                "components": [
-                    "FD"
-                ]
-            },
-            {
-                "pageName": "Cards",
-                "components": [
-                    "Credit Card"
-                ]
-            },
-            {
-                "pageName": "Loan",
-                "components": [
-                    "Personal Loan"
-                ]
-            },
-            {
-                "pageName": "Insurance",
-                "components": [
-                    "Health Insurance"
-                ]
-            },
-            {
-                "pageName": "Demat account",
-                "components": [
-                    "Mutual Fund"
-                ]
-            },
-            {
-                "pageName": "Account",
-                "components": [
-                    "Current Account"
-                ]
-            },
-            {
-                "pageName": "E-Shop",
-                "components": [
-                    "Shop"
-                ]
-            }
-        ]
-    }
+           {
+               "name": "Ram",
+               "accountNumber": "6012",
+               "amountInAccount": "1,070",
+               "userProfile":"userProfile1"
+           }
+       ],
+       "appThemes": [
+           {
+               "themeName": "theme1",
+               "subThemeName": "subTheme1",
+               "themePreviewImage": "ImagePath"
+           }
+       ],
+       "menus": [
+           "Deposit",
+           "Cards",
+           "Loan",
+           "Insurance",
+           "Account"
+       ],
+       "banner": "banner1",
+       "quickAccess": [
+           "Acc overview",
+           "Scan and pay",
+           "Recharge"
+       ],
+       "pages": [
+           {
+               "pageName": "Deposit",
+               "components": [
+                   "RD"
+               ]
+           },
+           {
+               "pageName": "Cards",
+               "components": [
+                   "Debit Card"
+               ]
+           },
+           {
+               "pageName": "Loan",
+               "components": [
+                   "Educational Loan"
+               ]
+           },
+           {
+               "pageName": "Insurance",
+               "components": [
+                   "Health Insurance",
+                   "Travel Insurance"
+               ]
+           },
+           {
+               "pageName": "Account",
+               "components": [
+                   "Savings Account"
+               ]
+           },
+           {
+               "pageName": "E-Shop",
+               "components": [
+                   "Shop"
+               ]
+           }
+       ]
+   }
 }
