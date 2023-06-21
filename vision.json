@@ -40,31 +40,31 @@
             {
                 "pageName": "Cards",
                 "components": [
-                    "Credit card"
+                    "Credit Card"
                 ]
             },
             {
                 "pageName": "Loan",
                 "components": [
-                    "Personal loan"
+                    "Personal Loan"
                 ]
             },
             {
                 "pageName": "Insurance",
                 "components": [
-                    "Health insurance"
+                    "Health Insurance"
                 ]
             },
             {
                 "pageName": "Demat account",
                 "components": [
-                    "Mutual fund"
+                    "Mutual Fund"
                 ]
             },
             {
                 "pageName": "Account",
                 "components": [
-                    "Current account"
+                    "Current Account"
                 ]
             },
             {
