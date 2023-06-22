@@ -4,7 +4,7 @@
         "appThemes": [
             {
                 "themeName": "theme3",
-                "subThemeName": "subThem3",
+                "subThemeName": "subTheme3",
                 "themePreviewImage": "ImagePath"
             }
         ],
@@ -41,7 +41,7 @@
             {
                 "pageName": "Cards",
                 "components": [
-                    "Debid Card"
+                    "Debit Card"
                 ]
             },
             {
