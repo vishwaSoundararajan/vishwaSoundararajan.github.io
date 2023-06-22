@@ -1,32 +1,33 @@
 {
     "student":{
-        "personName": "Home maker",
-        "appThemes": [
-            {
-                "themeName": "theme3",
-                "subThemeName": "subTheme3",
-                "themePreviewImage": "ImagePath"
-            }
-        ],
+        "personName": "Professional",
         "userData": [
             {
-                "name": "Swetha",
+                "name": "Farook",
                 "accountNumber": "2212",
-                "amountInAccount": "5,470",
+                "amountInAccount": "14,470",
                 "userProfile":"userProfile1"
             }
         ],
-        "banner": "banner3",
+        "appThemes": [
+            {
+                "themeName": "theme2",
+                "subThemeName":"subTheme2",
+                "themePreviewImage": "ImagePath"
+            }
+        ],
+        "banner": "banner2",
         "quickAccess": [
-            "Account overview",
             "Scan and pay",
-            "Shop"
+            "Loan and card offers",
+            "Demat"
         ],
         "menus": [
             "Deposit",
             "Cards",
             "Loan",
             "Insurance",
+            "Demat account",
             "Account",
             "E-Shop"
         ],
@@ -34,32 +35,37 @@
             {
                 "pageName": "Deposit",
                 "components": [
-                    "RD",
                     "FD"
                 ]
             },
             {
                 "pageName": "Cards",
                 "components": [
-                    "Debit Card"
+                    "Credit Card"
                 ]
             },
             {
                 "pageName": "Loan",
                 "components": [
-                    "Gold Loan"
+                    "Personal Loan"
                 ]
             },
             {
                 "pageName": "Insurance",
                 "components": [
-                    "Term Insurance"
+                    "Health Insurance"
+                ]
+            },
+            {
+                "pageName": "Demat account",
+                "components": [
+                    "Mutual Fund"
                 ]
             },
             {
                 "pageName": "Account",
                 "components": [
-                    "Savings Account"
+                    "Current Account"
                 ]
             },
             {
