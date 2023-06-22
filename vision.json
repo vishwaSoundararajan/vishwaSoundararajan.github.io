@@ -1,71 +1,73 @@
 {
-    "student": {
+    "student":{
+        "personName": "Home maker",
+        "appThemes": [
+            {
+                "themeName": "theme3",
+                "subThemeName": "subThem3",
+                "themePreviewImage": "ImagePath"
+            }
+        ],
         "userData": [
-           {
-               "name": "Ram",
-               "accountNumber": "6012",
-               "amountInAccount": "1,070",
-               "userProfile":"userProfile1"
-           }
-       ],
-       "appThemes": [
-           {
-               "themeName": "theme1",
-               "subThemeName": "subTheme1",
-               "themePreviewImage": "ImagePath"
-           }
-       ],
-       "menus": [
-           "Deposit",
-           "Cards",
-           "Loan",
-           "Insurance",
-           "Account"
-       ],
-       "banner": "banner1",
-       "quickAccess": [
-           "Acc overview",
-           "Scan and pay",
-           "Recharge"
-       ],
-       "pages": [
-           {
-               "pageName": "Deposit",
-               "components": [
-                   "RD"
-               ]
-           },
-           {
-               "pageName": "Cards",
-               "components": [
-                   "Debit Card"
-               ]
-           },
-           {
-               "pageName": "Loan",
-               "components": [
-                   "Educational Loan"
-               ]
-           },
-           {
-               "pageName": "Insurance",
-               "components": [
-                   "Health Insurance",
-                   "Travel Insurance"
-               ]
-           },
-           {
-               "pageName": "Account",
-               "components": [
-                   "Savings Account"
-               ]
-           },
-           {
-               "pageName": "E-Shop",
-               "components": [
-                   "Shop"
-               ]
-           }
-       ]
-   }
+            {
+                "name": "Swetha",
+                "accountNumber": "2212",
+                "amountInAccount": "5,470",
+                "userProfile":"userProfile1"
+            }
+        ],
+        "banner": "banner3",
+        "quickAccess": [
+            "Account overview",
+            "Scan and pay",
+            "Shop"
+        ],
+        "menus": [
+            "Deposit",
+            "Cards",
+            "Loan",
+            "Insurance",
+            "Account",
+            "E-Shop"
+        ],
+        "pages": [
+            {
+                "pageName": "Deposit",
+                "components": [
+                    "RD",
+                    "FD"
+                ]
+            },
+            {
+                "pageName": "Cards",
+                "components": [
+                    "Debid Card"
+                ]
+            },
+            {
+                "pageName": "Loan",
+                "components": [
+                    "Gold Loan"
+                ]
+            },
+            {
+                "pageName": "Insurance",
+                "components": [
+                    "Term Insurance"
+                ]
+            },
+            {
+                "pageName": "Account",
+                "components": [
+                    "Savings Account"
+                ]
+            },
+            {
+                "pageName": "E-Shop",
+                "components": [
+                    "Shop"
+                ]
+            }
+        ]
+    }
 }
